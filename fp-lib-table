@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ltv-814)(type KiCad)(uri "C:\\Users\\LeVy\\Google Drive\\Helmut_local\\drzwiczki\\ltv-814.pretty")(options "")(descr ""))
+  (lib (name dwa_krokowce)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)
